@@ -1,0 +1,32 @@
+
+body{
+    background-image: url(./imges/bgImg.png);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+#main{
+    color: white ;
+    font-family: 'Sarabun', sans-serif;
+    margin: 10% 0% 0% 30% ;
+
+}
+#today{
+    display: flex ;
+    text-shadow: 1px 1px black ;
+    
+}
+.date{
+    font-size: 180px;
+    padding: 0px;
+}
+.amSec{
+    font-size: 60px ;
+    margin-top:  33px ;
+    margin-left: 30px
+}
+#day{
+    font-size: 50px  ;
+    opacity:0.9 ;
+    margin-left: 50px;
+}
